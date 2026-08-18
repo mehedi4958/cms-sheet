@@ -4,6 +4,9 @@ import 'package:flutter/widgets.dart';
 
 class Assets {
   Assets._();
+
+  static const String flutterCmsSheet31030e053f3c =
+      'assets/keys/flutter-cms-sheet-31030e053f3c.json';
 }
 
 class AssetGenImage {
